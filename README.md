@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamtuan021
-- 👀 I’m interested in technology
+<!--- 👀 I’m interested in technology --->
 - 🌱 I’m currently learning Industrial University of Ho Chi Minh City
 <!--- 💞️ I’m looking to collaborate on ... --->
 <!--- 📫 How to reach me ... --->
